@@ -6,4 +6,4 @@
 ### ☕ Foram implementados da framework, modais, offCanvas, menu, cards, formulário, além de outros recursos. O projeto também possui um modo noturno, que foi habilitado com o JavaScript. 
 
 #### ☕ O projeto foi desenvolvido durante o curso: Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript, da Alura.
-#### ☕ Confira o projeto neste link: 
+#### ☕ Confira o projeto neste link: https://serenatto-two.vercel.app/
